@@ -23,6 +23,7 @@ This is a React application that allows users to connect their MetaMask wallet, 
    ```sh
    git clone https://github.com/yourusername/connect-wallet.git
    cd connect-wallet
+   cd crypto-wallet-app
    ```
 
 2. Install dependencies using pnpm:
