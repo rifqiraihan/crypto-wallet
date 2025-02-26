@@ -17,11 +17,12 @@ export default function ConnectWallet() {
   const [balance, setBalance] = useState<string | null>(null)
   const [prices, setPrices] = useState<CryptoPrice[]>([])
   const [loadingPrice, setLoadingPrice] = useState<boolean>(true)
-  const [loadingAccount, setLoadingAccount] = useState<boolean>(true)
+  const [loadingAccount, setLoadingAccount] = useState<boolean>(false)
 
 
 
   const connectWallet = async () => {
+    setLoadingAccount(true)
     if ((window as any).ethereum) {
       const web3 = new Web3((window as any).ethereum)
       try {
