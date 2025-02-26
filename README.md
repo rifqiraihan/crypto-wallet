@@ -13,7 +13,7 @@ This project is live at:
 - Responsive UI using Material-UI and TailwindCSS
 
 ## Technologies Used
-- **React 18**
+- **React 19**
 - **TypeScript**
 - **Material-UI**
 - **TailwindCSS**
