@@ -2,6 +2,10 @@
 
 This is a React application that allows users to connect their MetaMask wallet, view their Ethereum balance, and check real-time cryptocurrency prices using the CoinGecko API.
 
+## Deployment
+This project is live at:
+[🔗 Crypto Wallet App](https://crypto-wallet-asdn.vercel.app/)
+
 ## Features
 - Connect and disconnect MetaMask wallet
 - Display Ethereum address and balance
