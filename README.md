@@ -14,6 +14,7 @@ This project is live at:
 
 ## Technologies Used
 - **React 19**
+- **Vite**
 - **TypeScript**
 - **Material-UI**
 - **TailwindCSS**
