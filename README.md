@@ -38,6 +38,14 @@ This is a React application that allows users to connect their MetaMask wallet, 
 
 4. Open the application in your browser at `http://localhost:5173/` (Vite default port).
 
+## Installing MetaMask
+If you don't have MetaMask installed, follow these steps:
+
+- Download MetaMask from the official website: `https://metamask.io/`
+- Install the extension for Chrome, Firefox, or Edge.
+- Follow the instructions to create a wallet and secure your seed phrase.
+- Once installed, open the app and connect your MetaMask wallet.
+
 ## Usage
 
 - Click **"Connect Wallet"** to link your MetaMask account.
