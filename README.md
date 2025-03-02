@@ -4,7 +4,7 @@ This is a React application that allows users to connect their MetaMask wallet, 
 
 ## Deployment
 This project is live at:
-[🔗 Crypto Wallet App](https://crypto-wallet-asdn.vercel.app/)
+crypto-wallet-red.vercel.app
 
 ## Features
 - Connect and disconnect MetaMask wallet
